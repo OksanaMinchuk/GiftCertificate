@@ -1,0 +1,9 @@
+package util;
+
+public enum FileCategory {
+    WRONG_JSON_FORMAT_TYPE,
+    WRONG_FIELD_NAME_TYPE,
+    WRONG_NON_VALID_BEAN_TYPE,
+    WRONG_DB_CONSTRAINTS_TYPE,
+    VALID_FILE_TYPE
+}

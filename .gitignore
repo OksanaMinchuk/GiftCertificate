@@ -1,0 +1,12 @@
+target/
+*.iml
+.idea/
+.gradle/
+out/
+build/
+gradle/
+*.txt
+*.log
+/json
+/data
+/JSONData
